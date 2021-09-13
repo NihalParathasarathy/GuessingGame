@@ -3,7 +3,7 @@
 #include <stdlib.h>
 #include <time.h>
 //Nihal Parthasrathy
-//9/13/2021
+//9/13/2021 
 //This code randomly generates a number and then has you guess it saying higher or lower
 
 using namespace std;
